@@ -52,8 +52,8 @@ img {
   text-decoration: none;
   color: inherit;
 }
-link:hover,
-link:focus {
+.link:hover,
+.link:focus {
   color: var(--accent-color);
 }
 
