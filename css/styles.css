@@ -126,8 +126,8 @@ img {
   color: var(--pr_brand-color);
 }
 
-.nav-list .link {
-  color: var(--accent-color);
+.menu-list {
+  font-weight: 500;
 }
 
 /* ADDRESS =========================================== */
